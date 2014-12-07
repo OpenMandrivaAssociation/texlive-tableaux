@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-tableaux
 Version:	20081110
-Release:	8
+Release:	9
 Summary:	Construct tables of signs and variations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tableaux
