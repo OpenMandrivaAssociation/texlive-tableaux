@@ -3,7 +3,7 @@ Version:	42413
 Release:	2
 Summary:	Construct tables of signs and variations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tableaux
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tableaux
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tableaux.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tableaux.doc.r%{version}.tar.xz
